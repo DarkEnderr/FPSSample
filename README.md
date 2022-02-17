@@ -136,6 +136,7 @@ push versions of the project to github from there. As we do that we will update
 the [CHANGELOG](CHANGELOG.md) with highlights but the full history is not
 carried over.
 
+
 For practical reasons we are not able to take larger contributions
 just now. But bugfixes are very welcome! Read the guidelines for
 contributing in [CONTRIBUTING](CONTRIBUTING.md).
